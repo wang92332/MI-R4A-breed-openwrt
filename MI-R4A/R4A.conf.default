@@ -4,3 +4,5 @@ src-git routing https://git.openwrt.org/feed/routing.git
 src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
+src-git socat https://github.com/Lienol/openwrt-package
+src-git nat6 https://github.com/Ausaci/luci-app-nat6-helper
